@@ -1,0 +1,11 @@
+{
+  "appId": "com.chalapathi.calci",
+  "appName": "calci",
+  "webDir": "www",
+  "android": {
+    "buildOptions": {
+      "sourceCompatibility": "17",
+      "targetCompatibility": "17"
+    }
+  }
+}
